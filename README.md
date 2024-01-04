@@ -1,6 +1,7 @@
 # Recruitment Chat Assistant
 
-Recruitment Chat Assistant es un proyecto que busca ayudar a las empresas que buscan personal a interactuar, a través de lenguaje natural, con diferentes origenes de datos que incluyen los mejores candidatos a los puestos mas requeridos en técnologia.
+Recruitment Chat Assistant es un proyecto tipo PoC que busca ayudar a las empresas que buscan personal a interactuar, a través de lenguaje natural, con diferentes origenes de datos que incluyen los mejores candidatos a los puestos mas requeridos en técnologia.
+Para esta PoC se utiliza una base de candidatos tipo dummy, obtenida desde fuentes publicas.
 Este es un proyecto monorepo que incluye una aplicación de backend en Node.js con Express.js y una aplicación de frontend en ReactJS. 
 
 ## Estructura del Proyecto
