@@ -1,0 +1,27 @@
+{
+  "name": "backend-recruitment-chat",
+  "version": "1.0.0",
+  "description": "Backend for recruitment chat PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosRoa/recruitment-chat.git"
+  },
+  "keywords": [
+    "chat",
+    "ia",
+    "nlp"
+  ],
+  "author": "Carlos Roa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosRoa/recruitment-chat/issues"
+  },
+  "homepage": "https://github.com/CarlosRoa/recruitment-chat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -20,3 +20,19 @@ Para ejecutar el backend, navega a la carpeta `backend` y ejecuta los siguientes
 ```bash
 npm install
 npm start
+```
+
+Frontend
+El frontend es una aplicación de React creada con Vite. Incluye una interfaz de chat básica que envía mensajes al endpoint /api/v1/threads del backend.
+
+Para ejecutar el frontend, navega a la carpeta frontend y ejecuta los siguientes comandos:
+
+```bash
+npm install
+npm run dev
+```
+
+Esto iniciará el servidor de desarrollo de Vite en el puerto 5000.
+
+Contribuir
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para sugerir cambios o mejoras.
