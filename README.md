@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-Frontend
+## Frontend
 El frontend es una aplicación de React creada con Vite. Incluye una interfaz de chat básica que envía mensajes al endpoint /api/v1/threads del backend.
 
 Para ejecutar el frontend, navega a la carpeta frontend y ejecuta los siguientes comandos:
