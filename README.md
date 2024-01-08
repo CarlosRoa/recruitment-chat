@@ -34,5 +34,11 @@ npm run dev
 
 Esto iniciará el servidor de desarrollo de Vite en el puerto 5000.
 
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
 Contribuir
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para sugerir cambios o mejoras.
